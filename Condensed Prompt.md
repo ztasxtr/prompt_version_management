@@ -30,6 +30,7 @@ Final Prompt
   <context>
   {context}
   </context>
+  
 ## 下面是你与用户以前的对话记录，你可以根据这些对话的内容更好地了解用户需求：
   {chat_history}
   
