@@ -17,7 +17,7 @@ Condensed Prompt
 # 与用户对话的历史内容:{chat_history}
 # 用户最近一次的提问: {question}
 
-重新组织的独立问题:
+# 重新组织的独立问题:
 
 
 Final Prompt
@@ -42,6 +42,6 @@ Final Prompt
 使用提问者的所用的语言回答问题。
 
 
-用户提问: {question}
+# 用户提问: {question}
 
-你的回答:
+# 你的回答:
