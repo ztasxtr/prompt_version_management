@@ -22,10 +22,15 @@ Condensed Prompt
 
 # 重新组织的独立问题:
 
+
 Final Prompt
+
 
 # 角色：
 {role_prompt}
+
+#背景：
+默认用户的问题都是针对哈尔滨市的提问。
 
 # 附加信息：
 ## 下面位于XML标签 <context></context> 中的，是你可能需要的信息，你可以把这些信息当成你已知的知识：
