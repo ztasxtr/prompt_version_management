@@ -12,7 +12,7 @@
         <td>联系电话：</td> 
    </tr>
     <tr>
-        <td colspan="3">企业地址</td> 
+        <td colspan="3">企业地址：</td> 
    </tr>
     <tr>
         <td rowspan="4">企业声明</td> 
